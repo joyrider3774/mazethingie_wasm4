@@ -1,0 +1,15 @@
+/.vscode
+/build
+/release
+/waternet-windows.tar.gz
+/waternet.wasm
+/waternet-cart.tar.gz
+/waternet-html.tar.gz
+/waternet-linux.tar.gz
+/waternet-mac.tar.gz
+/mazethingie-linux.tar.gz
+/mazethingie-mac.tar.gz
+/mazethingie-windows.tar.gz
+/mazethingie.wasm
+/mazethingie-cart.tar.gz
+/mazethingie-html.tar.gz
